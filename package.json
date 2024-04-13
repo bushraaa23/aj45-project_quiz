@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "aj45-project_quiz": "^1.0.0",
+    "inquirer": "^9.2.18"
+  },
+  "name": "aj45-project_quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "types": "quiz.js",
+  "bin": "inquirer",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bushra",
+  "license": "MIT",
+  "description": ""
+}
